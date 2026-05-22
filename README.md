@@ -29,29 +29,13 @@
 
 ---
 
-## 📺 Latest YouTube Videos
+## 📺 My YouTube Channel
 
-<!-- Replace YOUR_CHANNEL_ID with your actual YouTube channel ID -->
+<a href="https://youtube.com/@theelectronicscreator">
+  <img src="https://img.shields.io/badge/YouTube-TheElectronicsCreator-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 [![YouTube Cards](https://youtube-cards.demolab.com/?id=UCxxxxxxxxxxxxxxxx&n=5&theme=dark)](https://youtube.com/@theelectronicscreator)
-
-> 💡 *Tip: Get your channel ID from YouTube Studio → Settings → Channel → Basic Info*
-
----
-
-## 🔧 Featured Projects
-
-> Replace the links below with your actual GitHub repositories!
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 [Smart Home Automation](https://github.com/pankajjoshiyt) | ESP32 + MQTT + Firebase IoT system | ESP32, C++, Firebase, MQTT |
-| 📡 [LoRa Weather Station](https://github.com/pankajjoshiyt) | Long-range weather sensor node | STM32, LoRa, FreeRTOS, Python |
-| 🔋 [BMS Monitor](https://github.com/pankajjoshiyt) | Battery Management System with BLE | Arduino, BLE, KiCad PCB |
-| 🦾 [Line Follower Robot](https://github.com/pankajjoshiyt) | PID-controlled autonomous robot | AVR, C, PID control |
-| 🌡️ [Raspberry Pi Temperature Logger](https://github.com/pankajjoshiyt) | Real-time data logging with web dashboard | Raspberry Pi, Python, Flask |
-
----
-
 ## 💻 Tech Stack
 
 ### 🖥️ Languages
@@ -113,19 +97,6 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=pankajjoshiyt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🐍 Contribution Snake
-
-<!-- You need to set up GitHub Actions to generate this. See setup instructions below. -->
-![snake gif](https://github.com/pankajjoshiyt/pankajjoshiyt/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=pankajjoshiyt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
