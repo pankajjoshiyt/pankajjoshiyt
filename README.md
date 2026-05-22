@@ -38,6 +38,17 @@
 [![YouTube Cards](https://youtube-cards.demolab.com/?id=UCxxxxxxxxxxxxxxxx&n=5&theme=dark)](https://youtube.com/@theelectronicscreator)
 ## 💻 Tech Stack
 
+
+
+
+## 📺 Latest Videos
+
+[![YouTube](https://img.shields.io/badge/YouTube-TheElectronicsCreator-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theelectronicscreator)
+
+[![YouTube Cards](https://youtube-cards.demolab.com/?id=YOUR_REAL_ID&n=5&theme=dark)](https://youtube.com/@theelectronicscreator)
+
+
+
 ### 🖥️ Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
