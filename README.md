@@ -28,24 +28,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theelectronicscreator@gmail.com)
 
 ---
-
-## 📺 My YouTube Channel
-
-<a href="https://youtube.com/@theelectronicscreator">
-  <img src="https://img.shields.io/badge/YouTube-TheElectronicsCreator-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-[![YouTube Cards](https://youtube-cards.demolab.com/?id=UCxxxxxxxxxxxxxxxx&n=5&theme=dark)](https://youtube.com/@theelectronicscreator)
-## 💻 Tech Stack
-
-
-
-
 ## 📺 Latest Videos
 
 [![YouTube](https://img.shields.io/badge/YouTube-TheElectronicsCreator-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theelectronicscreator)
-
-[![YouTube Cards](https://youtube-cards.demolab.com/?id=YOUR_REAL_ID&n=5&theme=dark)](https://youtube.com/@theelectronicscreator)
 
 
 
